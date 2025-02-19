@@ -110,3 +110,4 @@ Data: 0x19011b6ca1022dcb8ee88e2ab8dd1adf6f6bfa6af586f8b074e99c952e6e3c6befadd5c5
 Signer: 0x4A02DE0C8a1C74AB99D1eCeb56d1d5f54B8293b0
 Signature: 36b6a15e3e86b1ae44bdfc9183c4d86b0eaead44c838530ecb2e43dd0618559579195d42fe63868a44ee0279feef0181b1a9ed3b0faa89bf1ebd48b0f48f54bc1c
 ```
+This project is a demonstration of blockchain technology and smart contract integration.
